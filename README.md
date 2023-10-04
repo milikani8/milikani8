@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @milikani8
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in Wordpress
+- 💞️ I’m looking to collaborate on wordpress
 - 📫 How to reach me --> here
 
 <!---
