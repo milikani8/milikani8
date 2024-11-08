@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milikani8
 - 👀 I’m interested in Wordpress
-- 💞️ I’m looking to collaborate on wordpress
+- 💞️ I’m looking to collaborate React and Python
 - 📫 How to reach me --> here
 
 <!---
